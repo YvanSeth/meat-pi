@@ -2,6 +2,8 @@
 
 A project to monitor meat and oven cooking temperatuers using probe thermometers.
 
+***Note that this is very early stages highly developmental and doesn't really do anythign yet.***
+
 ## License
 
 Meat-Pi is licensed under either of
